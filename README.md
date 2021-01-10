@@ -9,7 +9,7 @@
 
 <a id="org3577e51"></a>
 
-# Celerity Evaluation Project:
+# Celerity Evaluation Project
 
 For the purposes of this project I attempted to implement two kernels using the Celerity runtime and the hipSYCL implementation of SYCL. The two kernels are **LU decomposition** and **Matrix Multiplication**. I decided to include both kernels as the implementation of **LU decomposition** kernel was not succesful. Please, refer to [Report](./Report.pdf) for the report of my experience using the Celerity runtime.
 
