@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.5.1)
+project(lu_decomposition)
+find_package(Celerity CONFIG REQUIRED)
+add_executable(lu lu.cc)
+add_executable(mmult mmult.cc)
+add_celerity_to_target(TARGET lu SOURCES lu.cc)
+add_celerity_to_target(TARGET mmult SOURCES mmult.cc)
