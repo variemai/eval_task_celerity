@@ -1,0 +1,7 @@
+
+These are the packages that would be merged, in order:
+
+Calculating dependencies  ... done!
+[ebuild   R    ] dev-python/sip-5.5.0-r1:5::gentoo  USE="-doc" PYTHON_TARGETS="python3_8 python3_9 -python3_10" 0 KiB
+
+Total: 1 package (1 reinstall), Size of downloads: 0 KiB
