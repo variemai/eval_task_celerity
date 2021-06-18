@@ -1,0 +1,9 @@
+
+Calculating dependencies  .... done!
+>>> No packages selected for removal by depclean
+>>> To see reverse dependencies, use --verbose
+Packages installed:   1343
+Packages in world:    154
+Packages in system:   43
+Required packages:    1343
+Number to remove:     0
